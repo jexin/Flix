@@ -9,7 +9,7 @@
 import UIKit
 import AlamofireImage
 
-class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
+class MoviesViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
     @IBOutlet weak var tableView: UITableView!
     var movies = [[String:Any]]()
