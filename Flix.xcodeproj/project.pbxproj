@@ -21,6 +21,7 @@
 		FE85940223DD1675003FF1F6 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE85940123DD1675003FF1F6 /* MovieDetailsViewController.swift */; };
 		FE85940423DE1E1A003FF1F6 /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE85940323DE1E1A003FF1F6 /* MovieGridViewController.swift */; };
 		FE85940623DE2B44003FF1F6 /* MovieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE85940523DE2B44003FF1F6 /* MovieGridCell.swift */; };
+		FE85940A23E3B7D0003FF1F6 /* PosterDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE85940923E3B7D0003FF1F6 /* PosterDetailsViewController.swift */; };
 		FFBB9A8A38F73C840128D64D /* Pods_Flix.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37C8441C451263250C1E3F87 /* Pods_Flix.framework */; };
 /* End PBXBuildFile section */
 
@@ -69,6 +70,7 @@
 		FE85940123DD1675003FF1F6 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		FE85940323DE1E1A003FF1F6 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
 		FE85940523DE2B44003FF1F6 /* MovieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCell.swift; sourceTree = "<group>"; };
+		FE85940923E3B7D0003FF1F6 /* PosterDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PosterDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +160,7 @@
 				FE85940123DD1675003FF1F6 /* MovieDetailsViewController.swift */,
 				FE85940323DE1E1A003FF1F6 /* MovieGridViewController.swift */,
 				FE85940523DE2B44003FF1F6 /* MovieGridCell.swift */,
+				FE85940923E3B7D0003FF1F6 /* PosterDetailsViewController.swift */,
 			);
 			path = Flix;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 			files = (
 				FE85940223DD1675003FF1F6 /* MovieDetailsViewController.swift in Sources */,
 				FE8593D423DA8906003FF1F6 /* MoviesViewController.swift in Sources */,
+				FE85940A23E3B7D0003FF1F6 /* PosterDetailsViewController.swift in Sources */,
 				FE8593D023DA8906003FF1F6 /* AppDelegate.swift in Sources */,
 				FE85940023DA916C003FF1F6 /* MovieCell.swift in Sources */,
 				FE8593D223DA8906003FF1F6 /* SceneDelegate.swift in Sources */,
